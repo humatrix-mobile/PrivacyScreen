@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaveepart/HumanicaPrivacyScreen.git"
+    "url": "git+https://github.com/kaveepart/PrivacyScreen.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "Kaveepart Vatkaew",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaveepart/HumanicaPrivacyScreen/issues"
+    "url": "https://github.com/kaveepart/PrivacyScreen/issues"
   },
-  "homepage": "https://github.com/kaveepart/HumanicaPrivacyScreen#readme"
+  "homepage": "https://github.com/kaveepart/PrivacyScreen#readme"
 }
