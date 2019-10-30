@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-hmc-privacy-screen",
   "version": "0.0.1",
-  "description": "Secures your app from displaying a screenshot in task switchers under Android and iOS. Keeps sensitive information private.",
+  "description": "Secures your app from displaying a screenshot in task switchers under Android. Keeps sensitive information private.",
   "cordova": {
     "id": "cordova-plugin-hmc-privacyscreen",
     "platforms": [
